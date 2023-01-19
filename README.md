@@ -1,3 +1,9 @@
+---
+chords:
+  Gdim:
+    - o3 b1,4,3 n2,4 n3,5 m5 m6
+---
+
 # music
 
 :::abc
@@ -15,12 +21,6 @@ tabstave
   notes :8 t12p7/4 s5s3/4 :8 3s:16:5-7/5 :h p5/4
   text :w, |#segno, ,|, :hd, , #tr
 :::
-
----
-chords:
-  Gdim:
-    - o3 b1,4,3 n2,4 n3,5 m5 m6
----
 
 c1: Dm                    Am                G
 l2: They don't know how   long it  takes
