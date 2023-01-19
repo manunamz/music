@@ -22,7 +22,7 @@ tabstave
   text :w, |#segno, ,|, :hd, , #tr
 :::
 
-c1: Dm                    Am                G
+c1: Dm                    Am                G Gdim
 l2: They don't know how   long it  takes
 l1:            They don't know how long  it takes
 
